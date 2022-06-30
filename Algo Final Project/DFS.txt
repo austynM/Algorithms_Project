@@ -1,0 +1,4 @@
+The DFS algorithim is a stack based algorithim. 
+The algroithim will put moves onto a stack if they exist in the order left, up, right, down.
+This algorithim is very ineffienct and will almost always choose the left path.
+This lead to a stack overflow/ memeory error most of the time.

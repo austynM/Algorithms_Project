@@ -1,0 +1,7 @@
+﻿  Dijkstra's.cpp
+C:\Users\austy\Desktop\USF\Algo Final Project\Dijkstra's\Dijkstra's\Dijkstra's\Dijkstra's.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austy\Desktop\USF\Algo Final Project\Dijkstra's\Dijkstra's\Dijkstra's\Dijkstra's.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austy\Desktop\USF\Algo Final Project\Dijkstra's\Dijkstra's\Dijkstra's\Dijkstra's.cpp(174,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austy\Desktop\USF\Algo Final Project\Dijkstra's\Dijkstra's\Dijkstra's\Dijkstra's.cpp(184,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austy\Desktop\USF\Algo Final Project\Dijkstra's\Dijkstra's\Dijkstra's\Dijkstra's.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+  Dijkstra's.vcxproj -> C:\Users\austy\Desktop\USF\Algo Final Project\Dijkstra's\Dijkstra's\Debug\Dijkstra's.exe

@@ -1,0 +1,6 @@
+The Dijkstra algorithim will take in a root node. 
+It will then find its neighbors (left, right, up, down). 
+It will then take it neighbors and sort the neightbors by cost, which is the number of the tile we move added with the number of tiles out of place from the solution. 
+These neighbors will then be added onto a queue and repeat the steps. 
+The graph in this problem will look like a tree so all the nodes on level 1 (roots children) will always have a smaller distance than the nodes on level 2(nodes on level 1 children).
+Thus making this algorithm correct.  
